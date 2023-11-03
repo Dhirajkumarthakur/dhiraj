@@ -2,5 +2,5 @@
 This is my first Git repositary
 <br>
 Author-dhirajkumarthakur
-<br>next line
+<br>
 hello world
